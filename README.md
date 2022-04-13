@@ -1,12 +1,7 @@
-# module_3_challenge
-
-
 # Module 3 Challenge
 
-The module 3 challenge for fintech course
+FinTech BootCamp Module 3 Challenge: JupyterLab file with example of analysis of arbitrage opportunities between bitstamp and coinbase.
 
-The Jupyter Lab file follows along as an exercise to analyze arbitrage
-opportunities between bitstamp and coinbase for Jan-Mar of 2018.
 ---
 
 ## Technologies
@@ -26,6 +21,7 @@ Python 3.7.11 with additional libraries:
 ## Installation Guide
 
 Other than Python 3.7, no installation is necessary, Jupyter Labs runs in a browser, including Chrome.  Launch the file by navigating to the directory of the file through a CLI and then running Jupyter labs, with "jupyter lab".
+
 ---
 
 ## Usage
